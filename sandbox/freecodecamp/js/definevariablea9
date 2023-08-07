@@ -2,10 +2,9 @@
 
 
 //var a = 9; outdated
-//
-let d = 8; //why warning? defined and value assigned at the same time? isn't it??
+//let, const
 
-let b;
-b = 0;
 
-const c = 6;
+var a;
+a = 9;
+
