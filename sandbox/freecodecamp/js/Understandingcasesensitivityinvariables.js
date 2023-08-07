@@ -8,10 +8,10 @@ let studlyCapVar;
 let properCamelCase;
 let titleCaseOver;
 
-/*Variable assignments
+//Variable assignments
 studlyCapVar = 10;
 properCamelCase = "A String";
-titleCaseOver = 9000;*/
+titleCaseOver = 9000;
 
 let studlyCapVar = 10;
 let properCamelCase = "A String";
