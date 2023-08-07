@@ -4,15 +4,15 @@
 
 // Variable declarations
 
-let studlyCapVar;
-let properCamelCase;
-let titleCaseOver;
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
 
 //Variable assignments
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
 
-let studlyCapVar = 10;
-let properCamelCase = "A String";
-let titleCaseOver = 9000;
+var studlyCapVar = 10;
+var properCamelCase = "A String";
+var titleCaseOver = 9000;
