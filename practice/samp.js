@@ -5,6 +5,7 @@ let requestCount = 0;
 const server = http.createServer((request, response) => {
     requestCount++;
 
+
     switch (request.url) {
         case '/':
         case '/students':
